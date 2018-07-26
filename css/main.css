@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/bedge_grunge.png");
+  /*background-image: url("../images/bedge_grunge.png");*/
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -21,7 +21,7 @@ body {
   width: 100%;
   /*font-family: serif;*/
   font-style: normal;
-  background-color: rgba(91, 109, 70, 0.2);
+  background-color: rgba(91, 109, 70, 0.8);
 }
 
 .about-text {
